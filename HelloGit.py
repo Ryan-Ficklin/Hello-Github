@@ -44,6 +44,11 @@ myList = [1, 3, 8, 412, 43, 2, 20]
 # length of list 
 len(myList)
 
+# while
+x = 0
+while(x < 5):
+        x+=1
+        print("x = " + str(x))
 # for loop
 for i in range(len(myList)):
 	print(i)
