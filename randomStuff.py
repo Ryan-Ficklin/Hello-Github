@@ -10,4 +10,4 @@ while(i < 10):
     print(roll)
     i += 1
 
-print("Next")
+print("Next!")
